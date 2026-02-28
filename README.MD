@@ -1,4 +1,4 @@
-markdown
+
 # 🔥 KALI-GHOST PRO v1.1 – Full Copy-Paste Release
 
 ### 1️⃣ Directory Structure
