@@ -4,12 +4,12 @@
 </p>
 
 <p align="center">
-  <strong>KALI-GHOST PRO v1.1</strong> – had to make the readme with chatGPT lol
+  <strong>had to make the readme with chatGPT lol
 </p>
 
 
 
-# 🔥 KALI-GHOST PRO v1.1 – Full Copy-Paste Release
+# 🔥 KALI-GHOST PRO v1.1 
 
 ### 1️⃣ Directory Structure
 
