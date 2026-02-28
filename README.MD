@@ -1,3 +1,9 @@
+![KALI-GHOST PRO Banner](banner.png)
+
+<p align="center">
+  <img src="banner.png" alt="KALI-GHOST PRO Banner" width="1024"/>
+</p>
+
 excuse me but i had to make this folder using chatGPT lol
 
 # 🔥 KALI-GHOST PRO v1.1 – Full Copy-Paste Release
