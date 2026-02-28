@@ -3,7 +3,11 @@
   <img src="banner.png" alt="KALI-GHOST PRO Banner" width="1024"/>
 </p>
 
-     excuse me but i had to make this folder using chatGPT lol
+<p align="center">
+  <strong>KALI-GHOST PRO v1.2</strong> – Ultimate OPSEC Pentest Dashboard
+</p>
+
+excuse me but i had to make this folder using chatGPT lol
 
 # 🔥 KALI-GHOST PRO v1.1 – Full Copy-Paste Release
 
