@@ -1,3 +1,4 @@
+excuse me but i had to make this folder using chatGPT lol
 
 # 🔥 KALI-GHOST PRO v1.1 – Full Copy-Paste Release
 
