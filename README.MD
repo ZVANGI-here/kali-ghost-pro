@@ -1,4 +1,3 @@
-![KALI-GHOST PRO Banner](banner.png)
 
 <p align="center">
   <img src="banner.png" alt="KALI-GHOST PRO Banner" width="1024"/>
