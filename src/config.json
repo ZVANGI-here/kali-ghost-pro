@@ -1,0 +1,15 @@
+{
+  "theme": "dark",
+  "dry_run": false,
+  "proxy_dns": true,
+  "tor_auto_start": true,
+  "log_encryption": true,
+  "default_tools": ["nmap", "nikto", "dirsearch", "msf", "burp"],
+  "legal_targets": [
+    "scanme.nmap.org",
+    "testphp.vulnweb.com",
+    "httpbin.org",
+    "hackthissite.org",
+    "bWAPP"
+  ]
+}
