@@ -1,4 +1,4 @@
-````markdown
+markdown
 # 🔥 KALI-GHOST PRO v1.1 – Full Copy-Paste Release
 
 ### 1️⃣ Directory Structure
@@ -75,10 +75,3 @@ kali-ghost
 * Always use Tor/proxychains for privacy.
 
 ---
-
-### 6️⃣ License
-
-MIT License — free to use, modify, and share.
-
-```
-
